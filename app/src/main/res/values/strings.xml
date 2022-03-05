@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity2_B</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="sign_in">SIGN IN</string>
+</resources>
